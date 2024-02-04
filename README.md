@@ -1,4 +1,4 @@
-# My Linux Dotfiles
+# My Linux i3wm Dotfiles
 
 ## I'm currently utilizing Pop!_OS with the Cosmic desktop environment, and unfortunately, updating this repository is not possible for now.
 
