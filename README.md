@@ -1,6 +1,6 @@
 # My Linux i3wm Dotfiles
 
-## I'm currently utilizing Pop!_OS with the Cosmic desktop environment, and unfortunately, updating this repository is not possible for now.
+## I currently use macOS, and unfortunately, updating this repository is not possible for now.
 
 ## Screenshots (From my old Arch setup):
 
